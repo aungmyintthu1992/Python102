@@ -1,0 +1,2 @@
+def sale():
+    print("sales")
